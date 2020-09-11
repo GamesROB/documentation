@@ -8,9 +8,9 @@ Thank you for using Discord bots (the "bot(s)") made by the GamesROB Team ("Game
 <br>
 
 # You and Your Data
-To request a copy of your data, you can use the "GDPR" command on one of our bots, if you are unsure how to do this we'd be happy to assist you in our [Discord Server]() or via email at [gdpr@gamesrob.com](mailto:gdpr@gamesrob.com).
+To request a copy of your data, you can use the 'GDPR' command on one of our bots, if you are unsure how to do this we'd be happy to assist you in our [Discord Server]() or via email at [gdpr@gamesrob.com](mailto:gdpr@gamesrob.com).
 
-To request deletion of your data you can either use the "GDPR" command on one of our bots, or email [gdpr@gamesrob.com](mailto:gdpr@gamesrob.com) with your Discord User ID and proof you own the account associated with the given User ID.
+To request deletion of your data you can either use the 'GDPR' command on one of our bots, or email [gdpr@gamesrob.com](mailto:gdpr@gamesrob.com) with your Discord User ID and proof you own the account associated with the given User ID.
 
 <br>
 
@@ -67,7 +67,7 @@ As stated above we collect some information from you to improve the overall expe
 
 - Virtual Currency
 
-  Our Services have an Economy function that is by default called "Tokens", if a Server has been registered as Premium by us or a Patron, then the name of that Server's economy and the icon be changed, so if applicable we store the economy name and economy icon if relevant.
+  Our Services have an Economy function that is by default called 'Tokens', if a Server has been registered as Premium by us or a Patron, then the name of that Server's economy and the icon be changed, so if applicable we store the economy name and economy icon if relevant.
 
 - Premium
 
