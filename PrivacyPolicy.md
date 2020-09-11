@@ -25,13 +25,12 @@ As stated above we collect some information from you to improve the overall expe
 
 - Language Preference
 
-  To make the bot accessible for people all around the world with different lingual preferences we support a number of language translations submitted by our community that you can use as an alternative to the default language, American English. This is stored in the same format as it is set, with a two letter language code and two letter country code separated by an underscore.
+  To make the bot accessible for people all around the world with different lingual preferences we support a number of language translations submitted by our community that you can use as an alternative to the default language, American English. If this is set we obviously store it.
 
 - Virtual Currency
 
   Our Services have an Economy function that is by default called 'Tokens'. We store the amount of tokens you currently have as well as the 'transactions' made which is a log of how, when, and how much currency was gained or lost.
-  
-  
+
   We also have a separate currency called 'Candies' which is exclusive to the Halloween event that we run every year. Candies are simply stored simply as a number with no associated transaction logs. For Patrons, we have a weekly token bonus which stores the last time you collected your weekly bonus.
 
 - Upvote Rewards
@@ -53,7 +52,7 @@ As stated above we collect some information from you to improve the overall expe
 - Other
 
   To punish Users with nefarious intent, we have a blacklisting function that lets owners and in certain scenarios volunteer staff block people from using the bot. To do this, we store a count of how many previous blacklists each User has previously had, the expiration of their latest blacklist, and the blacklist reason. 
-  
+
   When using our GDPR command to request data deletion, we store the time that your data will be deleted, this will be deleted along with the rest of their data when that time is reached.
 
 ## From Servers
