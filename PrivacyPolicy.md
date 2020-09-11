@@ -39,11 +39,11 @@ As stated above we collect some information from you to improve the overall expe
 
 - Site Sessions
 
-  In order to prevent requiring Users to re-login to the Site every time they close the Site in their browser, we store a randomly generated unique identifier for each User when they login, logging in again replaces the previous session token and therefore invalidates any previous sessions.
+  In order to prevent requiring Users from needing to re-login to the Site every time you close the Site in your browser, we store a randomly generated unique identifier for each User when they login, logging in again replaces the previous session token and therefore invalidates any previous sessions.
 
 - Profile
 
-  We let Users customize the background image for their profiles. To make this work, we store the URL of the currently set background image, assuming one has been set by the User. Due to some preset backgrounds being earnt, we store whether or not these presets have been unlocked. We assign profile badges to Users for various things, most commonly for Users who have accomplished all achievements, we store which badges you've unlocked.
+  We let Users customize the background image for your profiles. To make this work, we store the URL of the currently set background image, assuming one has been set by the User. Due to some preset backgrounds being earnt, we store whether or not these presets have been unlocked. We assign profile badges to Users for various things, most commonly for Users who have accomplished all achievements, we store which badges you've unlocked.
 
 - Achievements
 
