@@ -1,5 +1,5 @@
-# GamesROB Privacy Policy **DRAFT**
-##### *Last updated and effective: September 11, 2020*
+# GamesROB Privacy Policy
+##### *Last updated and effective: September 12, 2020*
 
 <br>
 

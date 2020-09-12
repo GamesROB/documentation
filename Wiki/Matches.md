@@ -1,4 +1,4 @@
-#  
+#  Matches
 
 *Brief Description*
 
@@ -10,6 +10,6 @@
 
 | Command | Usage | Description | Notes |
 | :---: | :---: |  :---: | :---: |
-| [`join`](https://github.com/GamesROB/documentation/wiki/join) | | Joins the match in the current channel | |
-| [`stop`](https://github.com/GamesROB/documentation/wiki/stop) | | Forces the current match to stop | |
-| [`listplayers`](https://github.com/GamesROB/documentation/wiki/listplayers) | | Lists the users playing in the match running in the current channel | |
+| [`join`](matches/join.md) | | Joins a match running in the current channel | |
+| [`stop`](matches/listplayers.md) | | Stops any matches running in the current channel | |
+| [`listplayers`](matches/stop.md) | | Lists the users playing in the match running in the current channel | |

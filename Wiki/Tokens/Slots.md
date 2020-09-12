@@ -1,6 +1,6 @@
-# 
+# Slots
 
-Usage: `${prefix}`
+Usage: `${prefix}slots`
 
 <br>
 

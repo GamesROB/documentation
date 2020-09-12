@@ -1,6 +1,6 @@
-# 
+# Baltop
 
-Usage: `${prefix}`
+Usage: `${prefix}baltop`
 
 <br>
 

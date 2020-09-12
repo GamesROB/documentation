@@ -1,4 +1,4 @@
-#  
+#  Tokens
 
 *Brief Description*
 
@@ -10,7 +10,7 @@
 
 | Command | Usage | Description | Notes |
 | :---: | :---: | :---: | :---: |
-| [`slots`](https://github.com/GamesROB/documentation/wiki/slots) | `<amount/all>` | Choose an amount of tokens to gamble and hope you win! | |
-| [`achievements`](https://github.com/GamesROB/documentation/wiki/achievements) | | View your progress in achievements | |
-| [`baltop`](https://github.com/GamesROB/documentation/wiki/baltop) | `[global] [page]` | Shows the token leaderboard | |
-| [`weekly`](https://github.com/GamesROB/documentation/wiki/weekly) | | A weekly token prize for donators | |
+| [`achievements`](tokens/achievements.md) | | View your progress in achievements | |
+| [`baltop`](tokens/baltop.md) | `[global] [page]` | Shows the token leaderboard | |
+| [`slots`](tokens/slots.md) | `<amount/all>` | Choose an amount of tokens to gamble and hope you win! | |
+| [`weekly`](tokens/weekly.md) | | A weekly token prize for donators | |

@@ -1,6 +1,6 @@
-# 
+# Achievements
 
-Usage: `${prefix}`
+Usage: `${prefix}achievements`
 
 <br>
 
