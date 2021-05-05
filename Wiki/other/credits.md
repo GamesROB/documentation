@@ -5,22 +5,22 @@ It wouldn't have been possible for GamesROB to get to where it is today without 
 # Support server
 
 ## Current Support Server Staff
-- ![deprilula28](https://discord.com/users/197448151064379393) - Owner, Developer, Administrator, Moderator, Helper
-- ![Fin](https://discord.com/users/386945522608373785) - Owner, Manager, Administrator, Moderator, Helper
-- ![Aqua](https://discord.com/users/322010018235023362) - Administrator, Moderator, Helper
+- [deprilula28](https://discord.com/users/197448151064379393) - Owner, Developer, Administrator, Moderator, Helper
+- [Fin](https://discord.com/users/386945522608373785) - Owner, Manager, Administrator, Moderator, Helper
+- [Aqua](https://discord.com/users/322010018235023362) - Administrator, Moderator, Helper
 - soDanindi - Moderator, Helper
-- ![A Real Username](https://discord.com/users/717983911824588862) - Helper
-- ![August](https://discord.com/users/280158289667555328) - Helper
+- [A Real Username](https://discord.com/users/717983911824588862) - Helper
+- [August](https://discord.com/users/280158289667555328) - Helper
 
 ## Former Support Server Staff
-- ![Mary Johanna](https://discord.com/users/244508568517083136) - Administrator, Moderator, Helper
-- ![Jazzy Spazzy](https://discord.com/users/381343873768751104) - Administrator, Moderator, Helper
-- ![Myrian](https://discord.com/users/379652131977953282) - Administrator, Moderator, Helper
-- ![Lauren](https://discord.com/users/310310921421455363) - Administrator, Moderator, Helper
-- ![dirtify](https://discord.com/users/233366173398466560) - Administrator, Moderator, Helper
+- [Mary Johanna](https://discord.com/users/244508568517083136) - Administrator, Moderator, Helper
+- [Jazzy Spazzy](https://discord.com/users/381343873768751104) - Administrator, Moderator, Helper
+- [Myrian](https://discord.com/users/379652131977953282) - Administrator, Moderator, Helper
+- [Lauren](https://discord.com/users/310310921421455363) - Administrator, Moderator, Helper
+- [dirtify](https://discord.com/users/233366173398466560) - Administrator, Moderator, Helper
 - [NK17](https://discord.com/users/397366714599473152) - Administrator, Moderator, Helper
-- ![Too Short To Reach](https://discord.com/users/321106473230925834) - Moderator, Helper
-- ![Dream](https://discord.com/users/257521982021566464) - Moderator, Helper
+- [Too Short To Reach](https://discord.com/users/321106473230925834) - Moderator, Helper
+- [Dream](https://discord.com/users/257521982021566464) - Moderator, Helper
 
 <br>
 
@@ -88,7 +88,7 @@ It wouldn't have been possible for GamesROB to get to where it is today without 
 
 
 ## Software
-- [Visual Studio Code](https://code.visualstudio.com/) ([GitHub](https://github.com/Microsoft/vscode/))
+- [VSCodium](https://vscodium.com/) ([GitHub](https://github.com/VSCodium/vscodium/))
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) ([GitHub](https://github.com/JetBrains/intellij-community/))
 - [PostgreSQL](https://www.postgresql.org/) ([GitHub](https://github.com/postgres/postgres/))
 - [Node.js](https://nodejs.org/) ([GitHub](https://github.com/nodejs/node/))
