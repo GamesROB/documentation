@@ -2,6 +2,5 @@
 
 Usage: `${prefix}website`
 
-<br>
 
 *Description*

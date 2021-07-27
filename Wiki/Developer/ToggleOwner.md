@@ -2,6 +2,5 @@
 
 Usage: `${prefix}toggleowner`
 
-<br>
 
 *Description*

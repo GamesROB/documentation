@@ -2,6 +2,5 @@
 
 Usage: `${prefix}listplayers`
 
-<br>
 
 *Description*

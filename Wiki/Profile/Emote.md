@@ -2,6 +2,5 @@
 
 Usage: `${prefix}emote`
 
-<br>
 
 *Description*

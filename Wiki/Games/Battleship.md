@@ -2,6 +2,5 @@
 
 Usage: `${prefix}battleship`
 
-<br>
 
 *Description*

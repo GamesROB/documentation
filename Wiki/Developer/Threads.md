@@ -2,6 +2,5 @@
 
 Usage: `${prefix}threads`
 
-<br>
 
 *Description*

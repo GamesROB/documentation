@@ -2,11 +2,9 @@
 
 *Brief Description*
 
-<br>
 
 *Long Description*
 
-<br>
 
 | Command | Usage | Description | Notes |
 | :---: | :---: | :---: | :---: |

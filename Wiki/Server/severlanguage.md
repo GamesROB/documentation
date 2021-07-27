@@ -2,6 +2,5 @@
 
 Usage: `${prefix}serverlanguage`
 
-<br>
 
 *Description*

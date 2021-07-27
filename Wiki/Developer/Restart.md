@@ -2,6 +2,5 @@
 
 Usage: `${prefix}restart`
 
-<br>
 
 *Description*

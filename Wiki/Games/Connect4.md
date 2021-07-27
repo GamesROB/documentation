@@ -2,6 +2,5 @@
 
 Usage: `${prefix}connect4`
 
-<br>
 
 *Description*

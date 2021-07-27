@@ -2,6 +2,5 @@
 
 Usage: `${prefix}language`
 
-<br>
 
 *Description*

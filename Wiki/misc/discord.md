@@ -2,6 +2,5 @@
 
 Usage: `${prefix}discord`
 
-<br>
 
 *Description*

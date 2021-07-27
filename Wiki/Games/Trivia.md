@@ -2,6 +2,5 @@
 
 Usage: `${prefix}trivia`
 
-<br>
 
 *Description*

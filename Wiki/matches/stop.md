@@ -2,6 +2,5 @@
 
 Usage: `${prefix}stop`
 
-<br>
 
 *Description*

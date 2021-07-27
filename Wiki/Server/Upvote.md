@@ -2,6 +2,5 @@
 
 Usage: `${prefix}upvote`
 
-<br>
 
 *Description*

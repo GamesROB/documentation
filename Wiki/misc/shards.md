@@ -2,6 +2,5 @@
 
 Usage: `${prefix}shards`
 
-<br>
 
 *Description*

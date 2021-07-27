@@ -2,6 +2,5 @@
 
 Usage: `${prefix}info`
 
-<br>
 
 *Description*

@@ -2,6 +2,5 @@
 
 Usage: `${prefix}permissions`
 
-<br>
 
 *Description*

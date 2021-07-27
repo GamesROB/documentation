@@ -2,6 +2,5 @@
 
 Usage: `${prefix}hangman`
 
-<br>
 
 *Description*

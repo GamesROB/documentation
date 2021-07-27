@@ -2,6 +2,5 @@
 
 Usage: `${prefix}leaderboard`
 
-<br>
 
 *Description*

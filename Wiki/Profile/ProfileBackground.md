@@ -2,6 +2,5 @@
 
 Usage: `${prefix}profilebackground`
 
-<br>
 
 *Description*

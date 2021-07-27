@@ -2,6 +2,5 @@
 
 Usage: `${prefix}stats`
 
-<br>
 
 *Description*

@@ -22,7 +22,6 @@ It wouldn't have been possible for GamesROB to get to where it is today without 
 - [Too Short To Reach](https://discord.com/users/321106473230925834) - Moderator, Helper
 - [Dream](https://discord.com/users/257521982021566464) - Moderator, Helper
 
-<br>
 
 ## Tools
 

@@ -2,6 +2,5 @@
 
 Usage: `${prefix}invite`
 
-<br>
 
 *Description*

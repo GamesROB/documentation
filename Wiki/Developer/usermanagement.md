@@ -2,6 +2,5 @@
 
 Usage: `${prefix}usermanagement`
 
-<br>
 
 *Description*

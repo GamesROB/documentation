@@ -2,6 +2,5 @@
 
 Usage: `${prefix}ping`
 
-<br>
 
 *Description*

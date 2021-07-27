@@ -2,6 +2,5 @@
 
 Usage: `${prefix}console`
 
-<br>
 
 *Description*

@@ -2,6 +2,5 @@
 
 Usage: `${prefix}reload`
 
-<br>
 
 *Description*

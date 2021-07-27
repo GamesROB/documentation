@@ -2,6 +2,5 @@
 
 Usage: `${prefix}patreon`
 
-<br>
 
 *Description*

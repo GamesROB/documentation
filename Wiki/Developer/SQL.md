@@ -2,6 +2,5 @@
 
 Usage: `${prefix}sql`
 
-<br>
 
 *Description*

@@ -2,6 +2,5 @@
 
 Usage: `${prefix}changelogs`
 
-<br>
 
 *Description*

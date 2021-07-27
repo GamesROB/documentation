@@ -2,6 +2,5 @@
 
 Usage: `${prefix}highscore`
 
-<br>
 
 *Description*
