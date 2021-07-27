@@ -1,23 +1,22 @@
 # GamesROB Privacy Policy
-##### *Last updated and effective: September 12, 2020*
+*Last updated and effective: September 12, 2020*
 
-<br>
 
-Thank you for using Discord bots (the "bot(s)") made by the GamesROB Team ("GamesROB", "we", "us"), to keep the bot functional and provide the best possible experience, we collect some necessary data from Discord users (the "User", "you", "they", "their") who have interacted with the bot and the respective Discord Guilds (the "Server(s)") that any of our bots have been added to. To improve the experience of the Bot, we also collect some information through the [GamesROB Website](https://gamesrob.com) (the "Site"), that interfaces with the bot. Some data referenced within this Privacy Policy will be exclusive to those who are actively or have previously supported us monetarily via [Patreon](https://patreon.com/gamesrob) (our "Patron(s)"). This Privacy Policy was initially created to comply with the [Discord Developer Terms of Service](https://discord.dev/legal), but is designed to publicly outline our policies regarding information we collect via the bot, website, or any other software we have developed (collectively, our "Service(s)").
+Thank you for using Discord bots (the "bot(s)") made by the GamesROB Team ("GamesROB", "we", "us"), to keep the bot functional and provide the best possible experience, we collect some necessary data from Discord users (the "User", "you", "they", "their") who have interacted with the bot and the respective Discord Guilds (the "Server(s)") that any of our bots have been added to.
+To improve the experience of the Bot, we also collect some information through the [GamesROB Website](https://gamesrob.com) (the "Site"), that interfaces with the bot. Some data referenced within this Privacy Policy will be exclusive to those who are actively or have previously supported us monetarily via [Patreon](https://patreon.com/gamesrob) (our "Patron(s)").
+This Privacy Policy was initially created to comply with the [Discord Developer Terms of Service](https://discord.dev/legal), but is designed to publicly outline our policies regarding information we collect via the bot, website, or any other software we have developed (collectively, our "Service(s)").
 
-<br>
 
-# You and Your Data
-To request a copy of your data, you can use the 'GDPR' command on one of our bots, if you are unsure how to do this we'd be happy to assist you in our [Discord Server]() or via email at [gdpr@gamesrob.com](mailto:gdpr@gamesrob.com).
+## You and Your Data
+To request a copy of your data, you can use the 'GDPR' command on one of our bots, if you are unsure how to do this we'd be happy to assist you in our [Discord Server](https://discord.gg/7uzKWGB) or via email at [gdpr@gamesrob.com](mailto:gdpr@gamesrob.com).
 
 To request deletion of your data you can either use the 'GDPR' command on one of our bots, or email [gdpr@gamesrob.com](mailto:gdpr@gamesrob.com) with your Discord User ID and proof you own the account associated with the given User ID.
 
-<br>
 
-# Information We Collect
+## Information We Collect
 As stated above we collect some information from you to improve the overall experience of our Services. The information we collect will be split into the three subsections below for simplicity and accessibility.
 
-## From You
+### From You
 
 - Discord User IDs
 
@@ -43,7 +42,8 @@ As stated above we collect some information from you to improve the overall expe
 
 - Profile
 
-  We let Users customize the background image for your profiles. To make this work, we store the URL of the currently set background image, assuming one has been set by the User. Due to some preset backgrounds being earnt, we store whether or not these presets have been unlocked. We assign profile badges to Users for various things, most commonly for Users who have accomplished all achievements, we store which badges you've unlocked.
+  We let Users customize the background image for your profiles. To make this work, we store the URL of the currently set background image, assuming one has been set by the User. 
+  Due to some preset backgrounds being earnt, we store whether or not these presets have been unlocked. We assign profile badges to Users for various things, most commonly for Users who have accomplished all achievements, we store which badges you've unlocked.
 
 - Achievements
 
@@ -55,7 +55,7 @@ As stated above we collect some information from you to improve the overall expe
 
   When using our GDPR command to request data deletion, we store the time that your data will be deleted, this will be deleted along with the rest of their data when that time is reached.
 
-## From Servers
+### From Servers
 
 - Discord Server IDs
 
@@ -71,9 +71,10 @@ As stated above we collect some information from you to improve the overall expe
 
 - Premium
 
-  In order to know if a Server is Premium, the User ID of either us or the Patron who registered a Server as Premium will be stored with that Server's data. Some other Patron perks that have related data stored are; the Tournament system which stores when the latest tournament ends, custom Server background images which have the background image stored, and custom leaderboard channels which requires us to store the following data for the leaderboard message: a message ID (ex. '520598741909241857') and a channel ID (ex. '516736142800846849') **not** the channel name (ex. '#server-info').
+  In order to know if a Server is Premium, the User ID of either us or the Patron who registered a Server as Premium will be stored with that Server's data. Some other Patron perks that have related data stored are; the Tournament system which stores when the latest tournament ends, custom Server background images which have the background image stored,
+  and custom leaderboard channels which requires us to store the following data for the leaderboard message: a message ID (ex. '520598741909241857') and a channel ID (ex. '516736142800846849') **not** the channel name (ex. '#server-info').
 
-## Miscellaneous
+### Miscellaneous
 
 - Game Replays
 
