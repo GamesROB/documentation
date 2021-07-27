@@ -1,0 +1,52 @@
+name: Incorrect Documentation
+description: Let us know about something wrong so we can fix it!
+title: "[Incorrect]: "
+labels: [incorrect documentation, needs attention]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to let us know something's wrong! We use these nifty issue forms to make everything as straight-forward as possible!
+  - type: input
+    id: file
+    attributes:
+      label: Which file/page has something wrong in it?
+      description: Give us a link to the page or file where seomthings wrong!
+      placeholder: https://github.com/GamesROB/documentation/blob/main/Wiki/home.md
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: What version of the Docs did you find the problem in?
+      description: Tell us what version of the Docs you found your problem in (select all that apply)!
+      multiple: true
+      options:
+        - "Latest on the Website"
+        - "Latest on GitHub"
+        - "Other (let us know in the additional-info section!)"
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: If possible, add [**imgur.com**](https://imgur.com/upload) screenshots to help us understand your problem. **YOU MUST** use [imgur.com](https://imgur.com/upload)!
+      placeholder: https://imgur.com/upload
+  - type: checkboxes
+    id: agreements
+    attributes:
+      label: Agreements
+      description: Do you agree to all of the following (and confirm they are all true)?
+      options:
+        - label: This isn't a security issue because security issues should be reported following the information in [`SECURITY.md`](https://github.com/GamesROB/documentation/security/policy), **NOT** through GitHub issues
+          required: true
+        - label: I've removed any private/personally identifiable information from this report and anything referenced in this report
+          required: true
+        - label: Everything in this report is (as far as I'm aware) accurate and true.
+          required: true
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: If you have any other context or relevant information/insight about the problem, put it here.

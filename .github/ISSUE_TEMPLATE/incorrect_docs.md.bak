@@ -1,0 +1,40 @@
+---
+name: Incorrect Documentation
+about: Let us know about something wrong so we can fix it!
+title: "[Incorrect]: "
+labels: [incorrect documentation, needs attention]
+assignees: ""
+
+---
+
+Thanks for taking the time to let us know something's wrong! We use these nifty issue forms to make everything as straight-forward as possible!
+
+
+## Logs
+Which file/page has something wrong in it? Give us a link to the page or file where seomthings wrong!
+
+
+## What version of the Docs did you find the problem in?
+Tell us what version of the Docs you found your problem in (select all that apply)!
+- [ ] Latest on the Website
+- [ ] Latest on GitHub
+- [ ] Other (let us know in the additional-info section!)
+
+
+## Client Version
+What clientside version are you using? (Make sure your bug happens with Vanilla clients!)
+
+
+## Screenshots
+If possible, add [**imgur.com**](https://imgur.com/upload) screenshots to help us understand your problem. **YOU MUST** use [imgur.com](https://imgur.com/upload)!
+
+
+## Agreements
+Do you agree to all of the following (and confirm they are all true)?
+- [ ] This isn't a security issue because security issues should be reported following the information in [`SECURITY.md`](https://github.com/GamesROB/documentation/security/policy), **NOT** through GitHub issues
+- [ ] I've removed any private/personally identifiable information from this report and anything referenced in this report
+- [ ] Everything in this report is (as far as I'm aware) accurate and true.
+
+
+## Additional Information
+If you have any other context or relevant information/insight about the problem, put it here.
