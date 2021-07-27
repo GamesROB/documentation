@@ -4,7 +4,7 @@
 
 Thank you for using Discord bots (the "bot(s)") made by the GamesROB Team ("GamesROB", "we", "us"), to keep the bot functional and provide the best possible experience, we collect some necessary data from Discord users (the "User", "you", "they", "their") who have interacted with the bot and the respective Discord Guilds (the "Server(s)") that any of our bots have been added to.
 To improve the experience of the Bot, we also collect some information through the [GamesROB Website](https://gamesrob.com) (the "Site"), that interfaces with the bot. Some data referenced within this Privacy Policy will be exclusive to those who are actively or have previously supported us monetarily via [Patreon](https://patreon.com/gamesrob) (our "Patron(s)").
-This Privacy Policy was initially created to comply with the [Discord Developer Terms of Service](https://discord.dev/legal), but is designed to publicly outline our policies regarding information we collect via the bot, website, or any other software we have developed (collectively, our "Service(s)").
+This Privacy Policy was initially created to comply with the [Discord Developer Terms of Service](https://discord.com/developers/docs/legal), but is designed to publicly outline our policies regarding information we collect via the bot, website, or any other software we have developed (collectively, our "Service(s)").
 
 
 ## You and Your Data
