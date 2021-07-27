@@ -17,10 +17,11 @@ If you use `main` you can use the workflow in your own repo without any changes.
 Commit names should never exceed the recommend 50 characters (this includes the prefix).
 You should use our [Commit prefixing](https://github.com/GamesROB/documentation/blob/main/.github/CONTRIBUTING.md#commit-prefixing) detailed below
 You should provide as much detail as possible in your commit names. A few examples are:
-- If you have extra space you can:
-  -  Add file extensions to file name
-  -  Add file paths
-  -  Format the message into a sentence so it's smoother to read
+You should start your commit messages (after the prefix) with keywords like Add, Update, Fix, Change, etc.
+- If you have extra space you should (in order):
+  - Format the message into a sentence so it's smoother to read
+  - Add file extensions to file name
+  - Add file paths (if there isn't room for both, just include the extension and don't include the path)
 
 ### Commit prefixing
 To make it quick and easy to know what a commit is changing just by reading it's name, we use standard commit-prefixes. These are all in the format of `[Prefix] Commit Message`, there is a list of them below:
