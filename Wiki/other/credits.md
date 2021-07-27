@@ -1,8 +1,5 @@
-It wouldn't have been possible for GamesROB to get to where it is today without all of the support we get from everyone who has used the bot and contributed to popularizing it. With that said, we want to give a special thanks to the people who've gone above and beyond and the resources we use on this page.
-
-<br>
-
 # Support server
+It wouldn't have been possible for GamesROB to get to where it is today without all of the support we get from everyone who has used the bot and contributed to popularizing it. With that said, we want to give a special thanks to the people who've gone above and beyond and the resources we use on this page. We'll start with the Support Server.
 
 ## Current Support Server Staff
 - [deprilula28](https://discord.com/users/197448151064379393) - Owner, Developer, Administrator, Moderator, Helper
