@@ -1,5 +1,5 @@
 # GamesROB Privacy Policy
-*Last updated and effective: September 12, 2020*
+*Last updated and effective: July 27, 2021*
 
 
 Thank you for using Discord bots (the "bot(s)") made by the GamesROB Team ("GamesROB", "we", "us"), to keep the bot functional and provide the best possible experience, we collect some necessary data from Discord users (the "User", "you", "they", "their") who have interacted with the bot and the respective Discord Guilds (the "Server(s)") that any of our bots have been added to.
@@ -42,7 +42,7 @@ As stated above we collect some information from you to improve the overall expe
 
 - Profile
 
-  We let Users customize the background image for your profiles. To make this work, we store the URL of the currently set background image, assuming one has been set by the User. 
+  We let Users customize the background image for your profiles. To make this work, we store the URL of the currently set background image, assuming one has been set by the User.
   Due to some preset backgrounds being earnt, we store whether or not these presets have been unlocked. We assign profile badges to Users for various things, most commonly for Users who have accomplished all achievements, we store which badges you've unlocked.
 
 - Achievements
