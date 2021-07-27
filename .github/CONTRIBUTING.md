@@ -7,7 +7,7 @@ This is a simple contributing guide you need to follow if you want to help us wi
 - [x] Use our standard commit-prefixing scheme 
 
 ## Don'ts
-- [x] Include anything that breaks our [`CODE_OF_CONDUCT`](https://github.com/GamesROB/documentation/blob/main/CODE_OF_CONDUCT.md), profane language in particular is a big no.
+- [ ] Include anything that breaks our [`CODE_OF_CONDUCT`](https://github.com/GamesROB/documentation/blob/main/CODE_OF_CONDUCT.md), profane language in particular is a big no.
 
 ## Styling
 You should conform to the styling suggested by our [linters](https://github.com/bigfinfrank/survival/blob/main/.github/workflows/super-linter.yml), we use the slim image of [github/super-linter](https://github.com/github/super-linter). The only repository-specific thing about this action is that we use the arising `main` branch instead of the traditional default `master`.
