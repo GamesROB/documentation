@@ -20,4 +20,3 @@ If you linked something with your credit in [`CONTRIBUTORS.md`](https://github.c
 
 ## List of Authors
 - [bigfinfrank](https://github.com/bigfinfrank)
-- 
