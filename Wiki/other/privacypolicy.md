@@ -51,7 +51,7 @@ As stated above we collect some information from you to improve the overall expe
 
 - Other
 
-  To punish Users with nefarious intent, we have a blacklisting function that lets owners and in certain scenarios volunteer staff block people from using the bot. To do this, we store a count of how many previous blacklists each User has previously had, the expiration of their latest blacklist, and the blacklist reason. 
+  To punish Users with nefarious intent, we have a blacklisting function that lets owners and in certain scenarios volunteer staff block people from using the bot. To do this, we store a count of how many previous blacklists each User has previously had, the expiration of their latest blacklist, and the blacklist reason.
 
   When using our GDPR command to request data deletion, we store the time that your data will be deleted, this will be deleted along with the rest of their data when that time is reached.
 
@@ -71,9 +71,9 @@ As stated above we collect some information from you to improve the overall expe
 
 - Premium
 
-  In order to know if a Server is Premium, the User ID of either us or the Patron who registered a Server as Premium will be stored with that Server's data. Some other Patron perks that have related data stored are; the Tournament system which stores when the latest tournament ends, custom Server background images which have the background image stored, and custom leaderboard channels which requires us to store the following data for the leaderboard message: a message ID (ex. '520598741909241857') and a channel ID (ex. '516736142800846849') **not** the channel name (ex. '#server-info'). 
+  In order to know if a Server is Premium, the User ID of either us or the Patron who registered a Server as Premium will be stored with that Server's data. Some other Patron perks that have related data stored are; the Tournament system which stores when the latest tournament ends, custom Server background images which have the background image stored, and custom leaderboard channels which requires us to store the following data for the leaderboard message: a message ID (ex. '520598741909241857') and a channel ID (ex. '516736142800846849') **not** the channel name (ex. '#server-info').
 
-## Miscellaneous 
+## Miscellaneous
 
 - Game Replays
 
@@ -81,7 +81,7 @@ As stated above we collect some information from you to improve the overall expe
 
 - Highscores
 
-  To keep the bot competitive and give Users ways to challenge themselves, we keep track of every User's best scores in each game.  
+  To keep the bot competitive and give Users ways to challenge themselves, we keep track of every User's best scores in each game.
 
 - Translations
 

@@ -66,7 +66,6 @@ It wouldn't have been possible for GamesROB to get to where it is today without 
 
 ## Web Apps and Services
 - [Cloudflare](https://www.cloudflare.com/)
-- [Nexril](https://nexril.net/billing/aff.php?aff=3/)
 - [Trello](https://trello.com/bigfinfrank/recommend/)
 
 

@@ -8,7 +8,7 @@ To add the bot to a server you either own or have the Manage Server permission i
 
 ***
 ## What games can I play?
-As of right now the games we offer are: 
+As of right now the games we offer are:
 - [Connect4](games/connect4.md)
 - [Tic Tac Toe](games/tictactoe.md)
 - [Minesweeper](games/minesweeper.md)
@@ -23,7 +23,7 @@ As of right now the games we offer are:
 For more information about individual games, click their names in the list. Or for more general information, [click here](games.md).
 
 ***
-## Do you have a Discord Server? 
+## Do you have a Discord Server?
 Of course!
 
 [![You can join it here](https://discord.com/api/guilds/345259986303057930/widget.png?style=banner3)](https://discord.gg/S8vD6Q5)
