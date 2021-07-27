@@ -8,7 +8,7 @@ This Privacy Policy was initially created to comply with the [Discord Developer 
 
 
 ## You and Your Data
-To request a copy of your data, you can use the 'GDPR' command on one of our bots, if you are unsure how to do this we'd be happy to assist you in our [Discord Server](https://discord.com/invite/7uzKWGB) or via email at [gdpr@gamesrob.com](mailto:gdpr@gamesrob.com).
+To request a copy of your data, you can use the 'GDPR' command on one of our bots, if you are unsure how to do this we'd be happy to assist you in our [Discord Server](https://discord.com/invite/QWPVH5j) or via email at [gdpr@gamesrob.com](mailto:gdpr@gamesrob.com).
 
 To request deletion of your data you can either use the 'GDPR' command on one of our bots, or email [gdpr@gamesrob.com](mailto:gdpr@gamesrob.com) with your Discord User ID and proof you own the account associated with the given User ID.
 
