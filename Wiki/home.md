@@ -26,4 +26,4 @@ For more information about individual games, click their names in the list. Or f
 ## Do you have a Discord Server?
 Of course!
 
-[![You can join it here](https://discord.com/api/guilds/345259986303057930/widget.png?style=banner3)](https://discord.gg/S8vD6Q5)
+[![You can join it here](https://discord.com/api/guilds/345259986303057930/widget.png?style=banner3)](https://discord.com/invite/S8vD6Q5)
