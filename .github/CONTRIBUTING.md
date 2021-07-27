@@ -4,7 +4,7 @@ This is a simple contributing guide you need to follow if you want to help us wi
 
 ## Do's
 - [x] Use our standard styling that follows [these linters](https://github.com/github/super-linter#supported-linters) except for `rust`, `dotenv`, `armttk`, `pwsh`, and `c#` with [these](https://github.com/bigfinfrank/survival/blob/main/.github/workflows/super-linter.yml) settings.
-- [x] Use our standard commit-prefixing scheme 
+- [x] Use our standard commit-prefixing scheme
 
 ## Don'ts
 - [ ] Include anything that breaks our [`CODE_OF_CONDUCT`](https://github.com/GamesROB/documentation/blob/main/CODE_OF_CONDUCT.md), profane language in particular is a big no.
