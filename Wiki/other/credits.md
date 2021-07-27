@@ -1,7 +1,10 @@
-# Support server
-It wouldn't have been possible for GamesROB to get to where it is today without all of the support we get from everyone who has used the bot and contributed to popularizing it. With that said, we want to give a special thanks to the people who've gone above and beyond and the resources we use on this page. We'll start with the Support Server.
+# Credits
+It wouldn't have been possible for GamesROB to get to where it is today without all of the support we get from everyone who has used the bot and contributed to popularizing it. With that said, we want to give a special thanks to the people who've gone above and beyond and the resources we use on this page. 
+*If you're viewing this from the [GamesROB/documentation](https://github.com/GamesROB/documentation) repo, you should see [ACKNOWLEDGMENTS.md](https://github.com/GamesROB/documentation/blob/main/ACKNOWLEDGMENTS.md) as well*
 
-## Current Support Server Staff
+## Support Server
+
+### Current Support Server Staff
 - [deprilula28](https://discord.com/users/197448151064379393) - Owner, Developer, Administrator, Moderator, Helper
 - [Fin](https://discord.com/users/386945522608373785) - Owner, Manager, Administrator, Moderator, Helper
 - [Aqua](https://discord.com/users/322010018235023362) - Administrator, Moderator, Helper
@@ -9,7 +12,7 @@ It wouldn't have been possible for GamesROB to get to where it is today without 
 - [A Real Username](https://discord.com/users/717983911824588862) - Helper
 - [August](https://discord.com/users/280158289667555328) - Helper
 
-## Former Support Server Staff
+### Former Support Server Staff
 - [Mary Johanna](https://discord.com/users/244508568517083136) - Administrator, Moderator, Helper
 - [Jazzy Spazzy](https://discord.com/users/381343873768751104) - Administrator, Moderator, Helper
 - [Myrian](https://discord.com/users/379652131977953282) - Administrator, Moderator, Helper
@@ -21,9 +24,9 @@ It wouldn't have been possible for GamesROB to get to where it is today without 
 
 <br>
 
-# Tools
+## Tools
 
-## Bot
+### Bot
 - [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/) ([GitHub](https://github.com/pgjdbc/pgjdbc/))
 - [Discord-Webhooks](https://mvnrepository.com/artifact/club.minnced/discord-webhooks?repo=jcenter/) ([GitHub](https://github.com/MinnDevelopment/discord-webhooks))
 - [Java-WebSocket](https://tootallnate.github.io/Java-WebSocket/) ([GitHub](https://github.com/TooTallNate/Java-WebSocket/))
