@@ -19,3 +19,5 @@ If you linked something with your credit in [`CONTRIBUTORS.md`](https://github.c
 4. Make a PR with your changes, and wait for us to review it.
 
 ## List of Authors
+- [bigfinfrank](https://github.com/bigfinfrank)
+- 
