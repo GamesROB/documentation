@@ -1,5 +1,5 @@
 # Security Policy
-*Security Policy revision 1.0.0*
+*Security Policy revision 1.0.1*
 
 We take security and privacy extremely seriously. It has been a top priority for us since the before launch of GamesROB's parent bot, Rescue Bot was even open to Staff members.
 With that said, we want to give people a way to communicate issues to us in a professional manor, and we may even offer rewards to those who do.
@@ -27,7 +27,7 @@ There are some things that while they could be considered vulnerabilities, they 
 - Vulnerabilities that are caused by a third party (for example, a bug with Java that Oracle needs to fix).
 - Vulnerabilities that only negatively affect:
   - users on non-[stable](https://discord.com/download) versions of Discord (such as [PTB](https://ptb.discord.com/api/downloads/distributions/app/installers/latest?channel=ptb&platform=win&arch=x86), [Canary](https://canary.discord.com/api/downloads/distributions/app/installers/latest?channel=canary&platform=win&arch=x86),
-  [Development](https://canary.discord.com/api/downloads/distributions/app/installers/latest?channel=development&platform=win&arch=x86), or [staging](https://staging.discord.co) branch versions)
+  [Development](https://canary.discord.com/api/downloads/distributions/app/installers/latest?channel=development&platform=win&arch=x86), or [staging](https://staging.discord.co) branch versions), these issues should be reported to the [Discord Security Bug Bounty](https://discord.com/security) program.
   - users using unofficial client modifications (such as [BetterDiscord](https://bd.zerebos.com/#tos))
   - users using [Automated user accounts (self-bots)](https://support.discord.com/hc/articles/115002192352).
   - users violating any other portion of the [Discord Guidelines](https://discord.com/guidelines), [Discord Terms of Service](https://discord.com/terms), or [Discord Developer Terms of Service](https://discord.com/developers/docs/legal))
