@@ -1,5 +1,5 @@
 # Credits
-It wouldn't have been possible for GamesROB to get to where it is today without all of the support we get from everyone who has used the bot and contributed to popularizing it. With that said, we want to give a special thanks to the people who've gone above and beyond and the resources we use on this page. 
+It wouldn't have been possible for GamesROB to get to where it is today without all of the support we get from everyone who has used the bot and contributed to popularizing it. With that said, we want to give a special thanks to the people who've gone above and beyond and the resources we use on this page.
 *If you're viewing this from the [GamesROB/documentation](https://github.com/GamesROB/documentation) repo, you should see [ACKNOWLEDGMENTS.md](https://github.com/GamesROB/documentation/blob/main/ACKNOWLEDGMENTS.md) as well*
 
 ## Support Server
