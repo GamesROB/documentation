@@ -3,4 +3,4 @@
 Usage: `${prefix}info`
 
 
-*Description*
+Responds with some information about the bot.

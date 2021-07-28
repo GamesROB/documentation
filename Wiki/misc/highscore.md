@@ -3,4 +3,4 @@
 Usage: `${prefix}highscore`
 
 
-*Description*
+Displays the highscores held by users in the server.

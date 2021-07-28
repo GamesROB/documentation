@@ -3,4 +3,4 @@
 Usage: `${prefix}help`
 
 
-*Description*
+Lists all the bots the command has.

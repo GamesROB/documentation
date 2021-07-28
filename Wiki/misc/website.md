@@ -3,4 +3,4 @@
 Usage: `${prefix}website`
 
 
-*Description*
+Provides a link to our website

@@ -1,6 +1,6 @@
-# Changelogs
+# Changelogs *Deprecated*
 
 Usage: `${prefix}changelogs`
 
 
-*Description*
+Provides a link to the changelog in the Support Server.

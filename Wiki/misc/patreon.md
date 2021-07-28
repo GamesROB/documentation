@@ -3,4 +3,4 @@
 Usage: `${prefix}patreon`
 
 
-*Description*
+Responds with a link to support us!

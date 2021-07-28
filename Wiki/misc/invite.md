@@ -3,4 +3,4 @@
 Usage: `${prefix}invite`
 
 
-*Description*
+Gives you an invite to the bot

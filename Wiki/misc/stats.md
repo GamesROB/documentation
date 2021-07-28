@@ -3,4 +3,4 @@
 Usage: `${prefix}stats`
 
 
-*Description*
+Provides some statistics we have about the bot and it's usage.

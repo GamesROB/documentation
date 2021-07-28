@@ -3,4 +3,4 @@
 Usage: `${prefix}shards`
 
 
-*Description*
+Responds with information about the bot's shards.
