@@ -3,4 +3,4 @@
 Usage: `${prefix}blacklist`
 
 
-*Description*
+Blacklists someone for a customizable `<duration>` with a customizable `<reason>`.

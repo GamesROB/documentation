@@ -1,6 +1,8 @@
 # Update
 
-Usage: `${prefix}update`
+Usage: `${prefix}update <url>`
+
+`<url>` - The URL to a copy of the command handler.
 
 
-*Description*
+Updates the bot with the given command handler.

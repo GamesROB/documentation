@@ -3,4 +3,4 @@
 Usage: `${prefix}toggleowner`
 
 
-*Description*
+Toggles on/off permission overrides for Bot Owners.

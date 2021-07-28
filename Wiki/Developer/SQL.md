@@ -1,6 +1,8 @@
 # SQL
 
-Usage: `${prefix}sql`
+Usage: `${prefix}sql <query>`
+
+`<query>` - An SQL query
 
 
-*Description*
+Executes an SQL query

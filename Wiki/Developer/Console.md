@@ -1,6 +1,8 @@
 # Console
 
-Usage: `${prefix}console`
+Usage: `${prefix}console <bash>`
+
+`<bash>` - A typical bash command
 
 
-*Description*
+Runs a bash command

@@ -3,4 +3,4 @@
 Usage: `${prefix}servercount`
 
 
-*Description*
+Updates the current server (+ shard, user, etc.) count.

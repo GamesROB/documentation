@@ -1,8 +1,8 @@
 # Eval
 
-Usage: ```${prefix}eval <code>```
+Usage: `${prefix}eval <code>`
 
-\<code> - JavaScript code to evaluate or execute
+`<code>` - JavaScript code to evaluate
 
 
-Evaluates or executes the given JavaScript code.
+Evaluates the given JavaScript code with nashorn.
