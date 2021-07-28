@@ -3,4 +3,4 @@
 Usage: `${prefix}join`
 
 
-*Description*
+Tries to join the match running in the current channel.

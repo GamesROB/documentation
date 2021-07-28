@@ -3,4 +3,4 @@
 Usage: `${prefix}listplayers`
 
 
-*Description*
+Lists players in the game running in the current channel.

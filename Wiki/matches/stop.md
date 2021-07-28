@@ -3,4 +3,4 @@
 Usage: `${prefix}stop`
 
 
-*Description*
+Stops the game running in the current channel.
