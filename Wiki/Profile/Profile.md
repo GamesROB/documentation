@@ -1,6 +1,8 @@
 # Profile
 
-Usage: `${prefix}profile`
+Usage: `${prefix}profile [user]`
+
+`[user]` - Another user you can add if you want to check their profile instead of your own. 
 
 
-*Description*
+Shows someone's profile, this includes their tokens
