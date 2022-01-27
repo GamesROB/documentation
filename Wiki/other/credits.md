@@ -8,7 +8,6 @@ It wouldn't have been possible for GamesROB to get to where it is today without 
 - [deprilula28](https://discord.com/users/197448151064379393) - Owner, Developer, Administrator, Moderator, Helper
 - [Fin](https://discord.com/users/386945522608373785) - Owner, Manager, Administrator, Moderator, Helper
 - [Aqua](https://discord.com/users/322010018235023362) - Administrator, Moderator, Helper
-- soDanindi - Moderator, Helper
 - [A Real Username](https://discord.com/users/717983911824588862) - Helper
 - [August](https://discord.com/users/280158289667555328) - Helper
 
