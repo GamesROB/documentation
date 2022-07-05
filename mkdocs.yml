@@ -1,0 +1,17 @@
+site_name: GamesROB Docs
+site_description: Documentation for the GamesROB Discord bot
+site_author: The Official GamesROB Team
+site_url: https://fin.fail/
+copyright: © GamesROB 2022
+
+repo_name: GitHub
+repo_url: https://github.com/GamesROB/documentation/
+edit_uri: edit/main/docs/
+
+theme: material
+
+
+
+nav:
+  - Home: index.md
+  - Commands: commands.md
